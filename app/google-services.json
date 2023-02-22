@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681966948604",
+    "project_id": "mst-personal-manager-4c390",
+    "storage_bucket": "mst-personal-manager-4c390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681966948604:android:b76b9ab06b4391df44c779",
+        "android_client_info": {
+          "package_name": "com.mo.bet.app.gb.mos.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681966948604-lhfkapr790l0t05v0jfhomppc8pj81r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf1kxRDIczhprhf0rCpfnoYy9mDxjjv0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681966948604-lhfkapr790l0t05v0jfhomppc8pj81r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
